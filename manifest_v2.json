@@ -1,0 +1,46 @@
+{
+  "item": {
+    "id": "979865491561",
+    "restype": "watchface",
+    "name": "数字气球",
+    "description": "把时间做成软乎乎的彩色糖果。\n圆润数字和轻快配色，让每一次抬腕都像拆开一颗小甜点。\n气球可以戳破，每戳破30个会掉落一枚彩蛋气球",
+    "preview": [
+      "media/软糖数字-原生动态展示.webp",
+      "media/download-6.png",
+      "media/download-7.png",
+      "media/download-8.png"
+    ],
+    "icon": "media/download-5.png",
+    "cover": "media/download-4.png",
+    "author": [
+      {
+        "name": "914173667",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "0.9.0",
+      "file_name": "downloads/数字气球.bin",
+      "versionCode": 2304
+    },
+    "xmb10nfc": {
+      "version": "0.9.0",
+      "file_name": "downloads/数字气球.bin",
+      "versionCode": 2304
+    },
+    "xmb11": {
+      "version": "0.9.0",
+      "file_name": "downloads/数字气球.bin",
+      "versionCode": 2304
+    },
+    "xmb11nfc": {
+      "version": "0.9.0",
+      "file_name": "downloads/数字气球.bin",
+      "versionCode": 2304
+    }
+  },
+  "ext": {}
+}
